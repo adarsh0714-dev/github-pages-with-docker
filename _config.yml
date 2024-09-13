@@ -20,8 +20,11 @@ description: >- # this means to ignore newlines until "baseurl:"
  weekend based on his experiences and research in tech.
 baseurl: "/github-pages-with-docker" # the subpath of your site, e.g. /blog
 url: "https://aquahackerman.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
 github_username: adarsh0714
+
+#Fields that are not initialised by minima
+linkedin_username: adarsh0714
+youtube_username: tobefilledin
 
 # Build settings
 markdown: kramdown
